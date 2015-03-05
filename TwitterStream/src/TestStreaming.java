@@ -12,6 +12,10 @@ import twitter4j.TwitterStreamFactory;
 import twitter4j.User;
 import twitter4j.conf.ConfigurationBuilder;
 
+/**
+ *@author Jiaying 
+ * The application stream recent tweets
+ */
 public class TestStreaming {
 	private static final String CONSUMER_KEY = "kfWvjLrk9pV9fJBwBmPq6zQz8";
 	private static final String CONSUMER_SECRET = "eBCpt1JZHtzY3EVzOk8GRcmVA99oVo6la8mKRMwrYdLhoaYGQ2";
